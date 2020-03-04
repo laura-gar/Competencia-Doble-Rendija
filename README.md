@@ -34,6 +34,7 @@ A continuación se adjuntaran las imagenes tomadas del experimento en funcionami
 las respectivas simulaciones y asi, comparar los resultados y encontrar similitudes o diferencias.
 
 
+![2 prob](https://user-images.githubusercontent.com/60012037/75845753-18316280-5da8-11ea-8f2d-6fbb4e848814.png)
 
 ![1slit](https://user-images.githubusercontent.com/60012037/75845656-c7ba0500-5da7-11ea-9089-1e263467ffc9.jpg)
 

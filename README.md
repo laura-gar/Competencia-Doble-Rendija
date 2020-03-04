@@ -61,3 +61,5 @@ simulaciones, se tomo como estándar el número de clicks, el cual fue 2.
 ![3slits_sim](https://user-images.githubusercontent.com/60012037/75847064-2b463180-5dac-11ea-996d-aeb412cff672.png)
 ![3slits_matriz](https://user-images.githubusercontent.com/60012037/75847445-3188dd80-5dad-11ea-8f36-736089b57f81.png)
 
+# Conclusiones
+Podemos evidenciar, en las diferentes pruebas que, a grandes rasgos tienen el mismo patrón de dispersión

@@ -33,8 +33,9 @@ teniendo en cuenta que este logre cubrir todas las rendijas para obtener un mejo
 A continuación se adjuntaran las imagenes tomadas del experimento en funcionamiento, más adelante desarrollaremos
 las respectivas simulaciones y asi, comparar los resultados y encontrar similitudes o diferencias.
 
-
-![2 prob](https://user-images.githubusercontent.com/60012037/75845753-18316280-5da8-11ea-8f2d-6fbb4e848814.png)
-
-![1slit](https://user-images.githubusercontent.com/60012037/75845656-c7ba0500-5da7-11ea-9089-1e263467ffc9.jpg)
+## 1 Rendija
+### *Experimento*
+![slits1](https://user-images.githubusercontent.com/60012037/75846105-38155600-5da9-11ea-89ab-60c7f43d1666.png)
+### *Grafo*
+![1lslit](https://user-images.githubusercontent.com/60012037/75846250-bd006f80-5da9-11ea-969f-ee39376b7b44.png)
 

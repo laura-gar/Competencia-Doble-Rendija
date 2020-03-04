@@ -36,7 +36,7 @@ simulaciones, se tomo como estándar el número de clicks, el cual fue 2.
 
 ## 1 Rendija
 ### *Experimento*
-![1slit_exp](https://user-images.githubusercontent.com/60012037/75846437-4fa10e80-5daa-11ea-8bea-a4332042f8a5.png)
+![1slits_matriz](https://user-images.githubusercontent.com/60012037/75847519-76ad0f80-5dad-11ea-9041-54d1e9b9d99c.png)
 ### *Grafo*
 ![1slit_grafo](https://user-images.githubusercontent.com/60012037/75846435-4f087800-5daa-11ea-9421-e0b08584ddf6.png)
 ### *Simulación*
@@ -50,7 +50,7 @@ simulaciones, se tomo como estándar el número de clicks, el cual fue 2.
 ![2slits_grafo](https://user-images.githubusercontent.com/60012037/75846868-904d5780-5dab-11ea-8bba-21cc89c23462.png)
 ### *Simulación*
 ![2slits_sim](https://user-images.githubusercontent.com/60012037/75846867-8fb4c100-5dab-11ea-8f4f-15b6ae891f1e.png)
-![2slit_matriz](https://user-images.githubusercontent.com/60012037/75846873-93484800-5dab-11ea-8d6c-75449d111660.png)
+![2slits_matriz](https://user-images.githubusercontent.com/60012037/75847602-ad832580-5dad-11ea-8ba2-bc8e4a4abe06.png)
 
 ### 3 Rendijas
 ### *Experimento*
@@ -59,5 +59,5 @@ simulaciones, se tomo como estándar el número de clicks, el cual fue 2.
 ![3slits_grafo](https://user-images.githubusercontent.com/60012037/75847065-2bdec800-5dac-11ea-8beb-46821cd61075.png)
 ### *Simmulación*
 ![3slits_sim](https://user-images.githubusercontent.com/60012037/75847064-2b463180-5dac-11ea-996d-aeb412cff672.png)
-![3slits_matriz](https://user-images.githubusercontent.com/60012037/75847063-2aad9b00-5dac-11ea-9806-97f91d8d4cae.png)
+![3slits_matriz](https://user-images.githubusercontent.com/60012037/75847445-3188dd80-5dad-11ea-8f36-736089b57f81.png)
 

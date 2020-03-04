@@ -35,5 +35,5 @@ las respectivas simulaciones y asi, comparar los resultados y encontrar similitu
 
 
 
-https://github.com/laura-gar/Competencia-Doble-Rendija/blob/master/1slit.jpg
+![1slit](https://user-images.githubusercontent.com/60012037/75845656-c7ba0500-5da7-11ea-9089-1e263467ffc9.jpg)
 

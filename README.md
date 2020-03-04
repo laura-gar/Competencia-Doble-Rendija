@@ -2,7 +2,7 @@
 
 En este experimento se tratara de evidenciar el efecto de la doble rendija, para esto, contaremos con tres pruebas; 
 la primera tendra una rendija, la segunda dos y la tercera tres. Se realizara además las respectivas simulaciones 
-de manera probabilistica.
+de manera probabilistica. Para las simulaciones se uso Python, el archivo que contiene el codigo esta adjunto en este repositorio
 
 A continuación, se verán los materiales, construcción y realización del experimento
 

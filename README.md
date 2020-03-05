@@ -38,28 +38,26 @@ simulaciones, se tomo como estándar el número de clicks, el cual fue 2.
 ### *Experimento*
 ![1slits_matriz](https://user-images.githubusercontent.com/60012037/75847519-76ad0f80-5dad-11ea-9041-54d1e9b9d99c.png)
 ### *Grafo*
-![1slit_grafo](https://user-images.githubusercontent.com/60012037/75846435-4f087800-5daa-11ea-9421-e0b08584ddf6.png)
+![1slit_grafo](https://user-images.githubusercontent.com/60012037/75947672-31e9ad00-5e6f-11ea-9534-ca465377ee40.png)
 ### *Simulación*
-![1slit_sim](https://user-images.githubusercontent.com/60012037/75846440-52036880-5daa-11ea-8b7d-faed3a5d1981.png)
-![1slits_matriz](https://user-images.githubusercontent.com/60012037/75847729-fd61ec80-5dad-11ea-8718-83dbd82f6063.png)
-
+![1slit_sim](https://user-images.githubusercontent.com/60012037/75947685-37df8e00-5e6f-11ea-9793-595dddde02ac.png)
+![1slit_matriz](https://user-images.githubusercontent.com/60012037/75947676-331ada00-5e6f-11ea-82ad-4d02661ea435.png)
 ### 2 Rendijas
 ### *Experimento*
 ![2slits_exp](https://user-images.githubusercontent.com/60012037/75846854-875c8600-5dab-11ea-9015-72e42eaa55f9.jpg)
 ### *Grafo*
-![2slits_grafo](https://user-images.githubusercontent.com/60012037/75846868-904d5780-5dab-11ea-8bba-21cc89c23462.png)
+![2slits_grafo](https://user-images.githubusercontent.com/60012037/75947828-b0464f00-5e6f-11ea-8850-72f84f0e7fec.png)
 ### *Simulación*
-![2slits_sim](https://user-images.githubusercontent.com/60012037/75846867-8fb4c100-5dab-11ea-8f4f-15b6ae891f1e.png)
-![2slits_matriz](https://user-images.githubusercontent.com/60012037/75847602-ad832580-5dad-11ea-8ba2-bc8e4a4abe06.png)
-
+![2slits_sim](https://user-images.githubusercontent.com/60012037/75947836-b63c3000-5e6f-11ea-9d06-7865433d6687.png)
+![2slits_matriz](https://user-images.githubusercontent.com/60012037/75947833-b2a8a900-5e6f-11ea-85cf-178acf4b8595.png)
 ### 3 Rendijas
 ### *Experimento*
 ![3slits_exp](https://user-images.githubusercontent.com/60012037/75847055-271a1400-5dac-11ea-86ec-d459667544b3.jpg)
 ### *Grafo*
-![3slits_grafo](https://user-images.githubusercontent.com/60012037/75847065-2bdec800-5dac-11ea-8beb-46821cd61075.png)
+![3slits_grafo](https://user-images.githubusercontent.com/60012037/75947856-c48a4c00-5e6f-11ea-9e41-8284def867c9.png)
 ### *Simmulación*
-![3slits_sim](https://user-images.githubusercontent.com/60012037/75847064-2b463180-5dac-11ea-996d-aeb412cff672.png)
-![3slits_matriz](https://user-images.githubusercontent.com/60012037/75847445-3188dd80-5dad-11ea-8f36-736089b57f81.png)
+![3slits_sim](https://user-images.githubusercontent.com/60012037/75947842-ba684d80-5e6f-11ea-86c2-d87cf946d18b.png)
+![3slits_matriz](https://user-images.githubusercontent.com/60012037/75947840-b9372080-5e6f-11ea-9a09-4ea10dfb7403.png)
 
 # Conclusiones
 Podemos evidenciar, en las diferentes pruebas que, a grandes rasgos tienen el mismo patrón de dispersión

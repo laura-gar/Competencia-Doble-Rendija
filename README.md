@@ -66,5 +66,8 @@ simulaciones, se tomo como estándar el número de clicks, el cual fue 2.
 ![3slits_sim](https://user-images.githubusercontent.com/60012037/75947842-ba684d80-5e6f-11ea-86c2-d87cf946d18b.png)
 ![3slits_matriz](https://user-images.githubusercontent.com/60012037/75949642-df12f400-5e74-11ea-9442-06a2d83eae0e.png)
 
-# Conclusiones
-Podemos evidenciar, en las diferentes pruebas que, a grandes rasgos tienen el mismo patrón de dispersión
+## Ejecución de l asimulación
+Para ejecutar la simulación, es necesario descargar el archivo que se encuentra adjunto en este repositorio; luego de descargarlo,
+puedes ejecutarlo con la función expRendijas, en ella se solicitaran 3 parámetros los cuales son: slits(rendijas), targets(blancos),
+clicks(cantidad de clicks). Dicha función imprimirá la matriz de probabilidades, el vector final luego de la cantidad ingresada de clicks, y la confirmación de que cada estado tiene salida 1.
+

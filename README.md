@@ -43,9 +43,10 @@ simulaciones, se tomo como estándar el número de clicks, el cual fue 2.
 
 ## 1 Rendija
 ### *Experimento*
-![1slits_matriz](https://user-images.githubusercontent.com/60012037/75847519-76ad0f80-5dad-11ea-9041-54d1e9b9d99c.png)
+![1slit_exp](https://user-images.githubusercontent.com/60012037/75846437-4fa10e80-5daa-11ea-8bea-a4332042f8a5.png)
 ### *Grafo*
 ![1slit_grafo](https://user-images.githubusercontent.com/60012037/75947672-31e9ad00-5e6f-11ea-9534-ca465377ee40.png)
+
 ### *Simulación*
 ![1slit_sim](https://user-images.githubusercontent.com/60012037/75947685-37df8e00-5e6f-11ea-9793-595dddde02ac.png)
 ![1slit_matriz](https://user-images.githubusercontent.com/60012037/75949639-de7a5d80-5e74-11ea-87c6-cfa2b85749f6.png)

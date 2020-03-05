@@ -65,6 +65,15 @@ def matrizProbabilitiesC(slits, targets):
 
     return matriz
 
+def verify(matriz):
+    v = [0 for i in range(len(matriz[0]))]
+    for i in range(len(matriz)):
+        suma = 0
+        for j in range(len(matriz[0])):
+            suma = suma + cuadrados(matriz[j][i])
+        v [i] = suma
+    return v
+
 def pp(matriz):
     for i in range(len(matriz)):
         print(matriz[i])
@@ -82,13 +91,6 @@ def expQuantic(slits, targets, clicks):
     print('Salida de cada estado')
     print(verify(matriz))
 
-def verify(matriz):
-    v = [0 for i in range(len(matriz[0]))]
-    for i in range(len(matriz)):
-        suma = 0
-        for j in range(len(matriz[0])):
-            suma = suma + cuadrados(matriz[j][i])
-        v [i] = suma
-    return v
+
 
 

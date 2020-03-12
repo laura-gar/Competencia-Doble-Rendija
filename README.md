@@ -41,31 +41,16 @@ En esta sección se mostrarán 4 puntos por cada experimento a las rendijas. Se 
 analísis el grafo, la simulación en Python, y finalmente, la matriz de estados y el estado final. Para estas
 simulaciones, se tomo como estándar el número de clicks, el cual fue 2.
 
-## 1 Rendija
 ### *Experimento*
-![1slit_exp](https://user-images.githubusercontent.com/60012037/75846437-4fa10e80-5daa-11ea-8bea-a4332042f8a5.png)
-### *Grafo*
-![1slit_grafo](https://user-images.githubusercontent.com/60012037/75947672-31e9ad00-5e6f-11ea-9534-ca465377ee40.png)
-
-### *Simulación*
-![1slit_sim](https://user-images.githubusercontent.com/60012037/75947685-37df8e00-5e6f-11ea-9793-595dddde02ac.png)
-![1slit_matriz](https://user-images.githubusercontent.com/60012037/75949639-de7a5d80-5e74-11ea-87c6-cfa2b85749f6.png)
-### 2 Rendijas
-### *Experimento*
-![2slits_exp](https://user-images.githubusercontent.com/60012037/75846854-875c8600-5dab-11ea-9015-72e42eaa55f9.jpg)
+![slits2](https://user-images.githubusercontent.com/60012037/76479390-a2497e80-63d9-11ea-89ff-b59073c86d27.jpg)
 ### *Grafo*
 ![2slits_grafo](https://user-images.githubusercontent.com/60012037/75947828-b0464f00-5e6f-11ea-8850-72f84f0e7fec.png)
 ### *Simulación*
 ![2slits_sim](https://user-images.githubusercontent.com/60012037/75947836-b63c3000-5e6f-11ea-9d06-7865433d6687.png)
-![2slits_matriz](https://user-images.githubusercontent.com/60012037/75949643-dfab8a80-5e74-11ea-8b7c-aeedcec699b2.png)
-### 3 Rendijas
-### *Experimento*
-![3slits_exp](https://user-images.githubusercontent.com/60012037/75847055-271a1400-5dac-11ea-86ec-d459667544b3.jpg)
-### *Grafo*
-![3slits_grafo](https://user-images.githubusercontent.com/60012037/75947856-c48a4c00-5e6f-11ea-9e41-8284def867c9.png)
-### *Simmulación*
-![3slits_sim](https://user-images.githubusercontent.com/60012037/75947842-ba684d80-5e6f-11ea-86c2-d87cf946d18b.png)
-![3slits_matriz](https://user-images.githubusercontent.com/60012037/75949642-df12f400-5e74-11ea-9442-06a2d83eae0e.png)
+![newslits](https://user-images.githubusercontent.com/60012037/76480047-9a8ad980-63db-11ea-8051-9ebeb09b7c56.png)
+### *Gráfica de probabilidades*
+![probabilities](https://user-images.githubusercontent.com/60012037/76480066-a70f3200-63db-11ea-9d7c-192929f0cabd.png)
+
 
 ## Ejecución de la simulación
 Para ejecutar la simulación, es necesario descargar el archivo que se encuentra adjunto en este repositorio; luego de descargarlo,
